@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2023.hotel.WinForms", "2023.hotel.WinForms\2023.hotel.WinForms.csproj", "{A63858E5-7B27-4949-877D-2739E6CEC99B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2023.hotel.SqlDataLayer", "2023.hotel.SqlDataLayer\2023.hotel.SqlDataLayer.csproj", "{A9EC00BC-CF7C-4F8F-BB37-201013A95D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A63858E5-7B27-4949-877D-2739E6CEC99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63858E5-7B27-4949-877D-2739E6CEC99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63858E5-7B27-4949-877D-2739E6CEC99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63858E5-7B27-4949-877D-2739E6CEC99B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EC00BC-CF7C-4F8F-BB37-201013A95D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EC00BC-CF7C-4F8F-BB37-201013A95D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EC00BC-CF7C-4F8F-BB37-201013A95D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EC00BC-CF7C-4F8F-BB37-201013A95D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D4C3682-EA59-452E-873D-1B3261C80B30}
+	EndGlobalSection
+EndGlobal
